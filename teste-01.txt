@@ -1,0 +1,5 @@
+20220211123450000000100053Teste Lançamento 01                                            gustavo
+20220211456780000000009214Teste Lançamento 02                                         outro cara
+20220214789100000000001000Teste Lançamento 03                                      gustavo césar
+20220215963960000000000001Teste Lançamento 04                                    mais outro cara
+20220215963960198765432171Teste Lançamento 05                                            mais um
